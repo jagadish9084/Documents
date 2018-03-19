@@ -1,1 +1,3 @@
-asdde
+http://apitest.standardchartered.com/upi/ReqBalEnq/1.0
+
+                    .header("GroupId","INDSEGSE")
