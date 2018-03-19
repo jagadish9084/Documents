@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:ReqBalEnq
+        xmlns:ns2="http://www.sc.com/api/schema/2017/upi">
+    <ns2:Head/>
+    <ns2:Txn></ns2:Txn>
+    <ns2:Payer>
+        <Ac addrType="ACCOUNT">
+            <Detail name="ACNUM">22510603706</Detail>
+        </Ac>
+    </ns2:Payer>
+</ns2:ReqBalEnq>
